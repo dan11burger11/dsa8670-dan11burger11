@@ -70,6 +70,12 @@ By the end of Week 5, you should be able to:
 
 ---
 
+## Version Control
+
+Version control is critical to any analytics team being able to successfully collaborate on a project. Without it, these teams would run into constant duplication and endless versions of code and data that could paralyze any progress being made. Version control is necessary to keep teams organized so that they can edit code and share ideas via their code without losing track of the project as a whole. Our readings this week showed version control was created for the software developer space,  but it is also very applicable to the analytics world. 
+
+---
+
 ## License
 
 This repository uses the MIT License (see `LICENSE`).
